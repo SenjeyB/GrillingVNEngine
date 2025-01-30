@@ -1,0 +1,8 @@
+build
+out
+cmake-build-debug-mingw
+assets
+.cache
+.idea
+.vs
+.vscode
